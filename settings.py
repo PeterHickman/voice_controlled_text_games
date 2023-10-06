@@ -4,3 +4,4 @@ ignore_starts_with = '>'
 print_text = False
 input_device_index = 1
 model = './models/vosk-model-small-en-us-0.15'
+beep = 'beep.wav'

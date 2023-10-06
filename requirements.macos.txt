@@ -1,5 +1,7 @@
+numpy==1.24.4
 pexpect==4.8.0
 ptyprocess==0.7.0
 pyobjc==9.2
 sounddevice==0.4.6
+soundfile==0.12.1
 vosk==0.3.44
