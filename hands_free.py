@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 
-
-# To play audio files
-# https://python-sounddevice.readthedocs.io/en/0.4.0/examples.html
-
-
 import platform
 import json
 from vosk import Model, KaldiRecognizer
